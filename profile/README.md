@@ -1,12 +1,67 @@
-## Hi there 👋
+# 💡 Ideary (아이디어리)
 
-<!--
+> **Idea + Diary = Ideary**  
+> 아이디어를 기록하고 공유하는 **아이디어 다이어리** ✨  
+> 캐주얼하고 발음이 쉬워, 글로벌하게도 적합한 플랫폼
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📖 프로젝트 소개
+사이드 프로젝트를 하고 싶지만 **아이디어가 잘 떠오르지 않을 때**,  
+혹은 번뜩이는 아이디어가 있어도 **혼자 실행하기 벅찰 때**가 있지 않나요?  
+
+**Ideary (아이디어리)**는  
+누구나 자유롭게 아이디어를 기록하고 공유할 수 있는 **아이디어 다이어리**입니다.  
+가볍게 올린 아이디어가 다른 사람의 영감이 되고,  
+때로는 함께 프로젝트를 시작하는 계기가 될 수도 있습니다. 🚀  
+
+---
+
+## 🎯 주요 기능
+- 🔑 **간편 로그인**  
+  (카카오 · 구글 · 네이버 · 이메일 지원)  
+- 📝 **아이디어 작성**  
+  - 단순 아이디어 공유  
+  - 팀 빌딩용 아이디어 (DM & 정원 관리)  
+- 💬 **댓글 & 좋아요**  
+  - 댓글 뎁스 지원  
+  - 활동량 기반 유저 등급 표시  
+- 📩 **DM 기능**  
+  - 팀원 모집 시 1:1 대화 가능  
+- 🚨 **신고 시스템**  
+  - 게시글 및 댓글 신고  
+- 📊 **대시보드 & 랭킹**  
+  - 인기 아이디어, 유저 랭킹 제공  
+
+---
+
+## 👀 이런 분들께 추천해요
+- 사이드 프로젝트는 하고 싶은데 **아이디어가 없는 분**  
+- 아이디어는 있지만 **시간/자원이 부족한 분**  
+- **웃긴 아이디어**, **누군가 해줬으면 하는 아이디어**를 공유하고 싶은 분  
+- 포트폴리오를 준비하면서 **작은 프로젝트부터 시작하고 싶은 분**  
+
+---
+
+## 🚀 우리의 목표
+아이디어리(Ideary)는 **"아이디어를 기록하는 다이어리"**라는 철학 아래,  
+**아이디어 공유 → 협업 → 실행**으로 이어지는  
+새로운 사이드 프로젝트 문화를 만들어가고자 합니다.  
+
+---
+
+## 🛠 Tech Stack (예정)
+- **Frontend**: React, Next.js  
+- **Backend**: Spring Boot
+- **Database**: PostgreSQL  
+- **Infra**: AWS (EC2, RDS, S3)  
+
+---
+
+## 📌 향후 로드맵
+- [ ] MVP 버전 출시 (아이디어 등록 & 댓글/좋아요)  
+- [ ] DM 및 팀 빌딩 기능 추가  
+- [ ] 활동 기반 유저 등급/랭킹 시스템 적용  
+- [ ] 모바일 최적화 & 글로벌 버전 준비  
+
+---
